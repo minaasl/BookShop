@@ -1,14 +1,4 @@
 
-*{
-    font-family: "Gill Sans";
-    margin:0; padding:0;
-    box-sizing: border-box;
-    outline: none; 
-    text-decoration: none;
-    text-transform: capitalize;
-    transition:all .2s linear;
-    transition:width none;
-}
 html{
     font-size: 62.5%;
     overflow-x: hidden;
