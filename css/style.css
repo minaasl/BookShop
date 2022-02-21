@@ -1,12 +1,4 @@
-:root{
-    --green:#94618e;
-    --dark-color:#49274A;
-    --black:#444;
-    --light-color:#666;
-    --border:.1rem solid rgba(0,0,0,.1);
-    --border-hover:.1rem solid var(--black);
-    --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
-}
+
 *{
     font-family: "Gill Sans";
     margin:0; padding:0;
